@@ -11,9 +11,9 @@ header {
 }
 
 .col {
-  height: 50px;
+  height: 60px;
   text-align: center;
-  line-height: 50px;
+  line-height: 60px;
   border: 1px solid black;
   border-radius: 10px;
   margin-right: 3px;
@@ -21,9 +21,9 @@ header {
 }
 
 .yellow {
-background: radical-gradient(#ffc,#ff0)
+background: radial-gradient(#ffc,#ff0)
 }
 
 .orange {
-background: radical-gradient(#fc9,#f90);
+background: radial-gradient(#fc9,#f90);
 }
