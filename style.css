@@ -1,4 +1,10 @@
-@charset utf-8;
+@charset "utf-8";
+
+.col {
+  height: 30px;
+  text-align: center;
+  inline-height: 30px;
+}
 
 .yellow {
 background-color: yellow;
