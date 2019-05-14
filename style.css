@@ -1,8 +1,13 @@
 @charset "utf-8";
 
+body {
+  margin: 0 auto;
+}
+
 header {
   margin: 80px auto;
-  text-align: center;
+  
+  background-color: gray;
 }
 
 .col {
