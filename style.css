@@ -26,23 +26,23 @@ background: radial-gradient(#ffc,#ff0);
 }
 
 .pink {
-  background-color: radial-gradient(#fcf,#f6c);
+  background: radial-gradient(#fcf,#f6c);
 }
   
 .green {
-  background-color: radial-gradient(#3f0,#0c0);
+  background: radial-gradient(#3f0,#0c0);
 }
 
 .lightgreen {
-  background-color: radial-gradient(#cf9,#9f0);
+  background: radial-gradient(#cf9,#9f0);
 }
 
 .blue {
-  background-color: radial-gradient(#6ff,#6cf);
+  background: radial-gradient(#6ff,#6cf);
 }
 
 .purple {
-  background-color: radial-gradient(#ccf,#c9f);
+  background: radial-gradient(#ccf,#c9f);
 }
 
 .orange {
