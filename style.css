@@ -36,6 +36,14 @@ background: radial-gradient(#ffc,#ff0);
   background-color: radial-gradient(#cf9,#9f0);
 }
 
+.blue {
+  background-color: radial-gradient(#6ff,#6cf);
+}
+
+.purple {
+  background-color: radial-gradient(#ccf,#c9f);
+}
+
 .orange {
 background: radial-gradient(#fc9,#f90);
 }
