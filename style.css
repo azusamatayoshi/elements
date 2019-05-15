@@ -21,7 +21,19 @@ header {
 }
 
 .yellow {
-background: radial-gradient(#ffc,#ff0)
+background: radial-gradient(#ffc,#ff0);
+}
+
+.pink {
+  background-color: radial-gradient(#fcf,#f6c);
+}
+  
+.green {
+  background-color: radial-gradient(#3f0,#0c0);
+}
+
+.lightgreen {
+  background-color: radial-gradient(#cf9,#9f0);
 }
 
 .orange {
