@@ -18,7 +18,7 @@ header {
   border-radius: 10px;
   margin-right: 3px;
   margin-bottom: 3px;
-  box-shadow: 10px 10px 10px #999;
+  box-shadow: 5px 5px 5px #999;
   color: black;
 }
 
@@ -27,7 +27,7 @@ background: radial-gradient(#ffc,#ff0);
 }
 
 .pink {
-  background-color: radial-gradient(#fcf,#f6c);
+  background: radial-gradient(#fcf,#f6c);
 }
   
 .green {
