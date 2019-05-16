@@ -55,6 +55,20 @@ background: radial-gradient(#fff,#ff0);
 background: radial-gradient(#fff,#f90);
 }
 
+.second {
+  display: flex;
+  margin: 60px auto;
+  background-color: #ccc;
+}
+
+.list {
+  width: 30%;
+}
+
+.text {
+  width: 70%;
+}
+
 footer {
   text-align: center;
   background-color: #ccc;
