@@ -67,6 +67,12 @@ background: radial-gradient(#fff,#f90);
   background-color: #ccc;
 }
 
+h3 {
+  padding: 20px;
+  background-color: pink;
+}
+
+
 .list {
   width: 30%;
   background-color: orange;
@@ -75,6 +81,7 @@ background: radial-gradient(#fff,#f90);
 .text {
   width: 70%;
   background-color: yellow;
+  padding: 30px;
 }
 
 footer {
