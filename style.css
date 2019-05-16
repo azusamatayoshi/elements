@@ -18,36 +18,36 @@ header {
   border-radius: 10px;
   margin-right: 3px;
   margin-bottom: 3px;
-  box-shadow: 5px 5px 5px #999;
+  box-shadow: 5px 5px 5px #ccc;
   color: black;
 }
 
 .yellow {
-background: radial-gradient(#ffc,#ff0);
+background: radial-gradient(#fff,#ff0);
 }
 
 .pink {
-  background: radial-gradient(#fcf,#f6c);
+  background: radial-gradient(#fff,#f6c);
 }
   
 .green {
-  background: radial-gradient(#3f0,#0c0);
+  background: radial-gradient(#ff,#0c0);
 }
 
 .lightgreen {
-  background: radial-gradient(#cf9,#9f0);
+  background: radial-gradient(#fff,#9f0);
 }
 
 .blue {
-  background: radial-gradient(#6ff,#6cf);
+  background: radial-gradient(#fff,#6cf);
 }
 
 .purple {
-  background: radial-gradient(#ccf,#c9f);
+  background: radial-gradient(#fff,#c9f);
 }
 
 .orange {
-background: radial-gradient(#fc9,#f90);
+background: radial-gradient(#fff,#f90);
 }
 
 footer {
