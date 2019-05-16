@@ -93,8 +93,14 @@ h3 {
 }
 
 @media screen and (max-width:768px) {
-  .second: width: 80%;
+  .text .list { 
+    width: 100%;
+    display: block;
   }
+  .list li {
+    display: inline-block;
+  }
+}
 
 footer {
   text-align: center;
