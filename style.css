@@ -77,7 +77,9 @@ background: radial-gradient(#fff,#f90);
     
 h3 {
   padding: 20px;
-  background-color: pink;
+  /*background-color: pink;*/
+  border-bottom: 1px double #999;
+  border-top: 1px double #999;
 }
 
 
