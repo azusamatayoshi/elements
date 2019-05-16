@@ -19,7 +19,7 @@ i {
   height: 60px;
   text-align: center;
   line-height: 60px;
-  border: 1px solid black;
+  border: 1px solid #999;
   border-radius: 10px;
   margin-right: 3px;
   margin-bottom: 3px;
@@ -36,7 +36,7 @@ background: radial-gradient(#fff,#ff0);
 }
   
 .green {
-  background: radial-gradient(#ff,#0c0);
+  background: radial-gradient(#fff,#0c0);
 }
 
 .lightgreen {
