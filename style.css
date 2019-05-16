@@ -79,19 +79,19 @@ background: radial-gradient(#fff,#f90);
 h3 {
   padding: 20px;
   /*background-color: pink;*/
-  border-bottom: 1px double #999;
-  border-top: 1px double #999;
+  border-bottom: 5px double #999;
+  border-top: 5px double #999;
 }
 
 
 .list {
   width: 30%;
-  background-color: orange;
+  background-color: #ffc;
 }
 
 .text {
   width: 70%;
-  background-color: yellow;
+  background-color: #ff9;
   padding: 20px;
 }
 
