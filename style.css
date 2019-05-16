@@ -66,18 +66,15 @@ background: radial-gradient(#fff,#f90);
 }
 
 
-@media screen and (max-width:768px) {
-  .second {
-    width: 80%;
-  }
-    
-/*
+
 .second {
   display: flex;
   margin: 60px auto;
   background-color: red;
-}*/
+}
 
+
+    
 h3 {
   padding: 20px;
   background-color: pink;
@@ -94,6 +91,10 @@ h3 {
   background-color: yellow;
   padding: 20px;
 }
+
+@media screen and (max-width:768px) {
+  .second: width: 80%;
+  }
 
 footer {
   text-align: center;
