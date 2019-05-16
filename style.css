@@ -4,6 +4,11 @@ body {
   margin: 0 auto;
 }
 
+img {
+  width: 60px;
+  height: 60px;
+}
+
 header {
   margin: 80px auto;
   text-align: center;
@@ -25,6 +30,7 @@ i {
   margin-bottom: 3px;
   box-shadow: 5px 5px 5px #ccc;
   color: black;
+  font-wight: bold;
 }
 
 .yellow {
@@ -63,10 +69,12 @@ background: radial-gradient(#fff,#f90);
 
 .list {
   width: 30%;
+  background-color: orange;
 }
 
 .text {
   width: 70%;
+  background-color: yellow;
 }
 
 footer {
