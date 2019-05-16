@@ -65,11 +65,18 @@ background: radial-gradient(#fff,#ff0);
 background: radial-gradient(#fff,#f90);
 }
 
+
+@media screen and (max-width:768px) {
+  .second {
+    width: 80%;
+  }
+    
+/*
 .second {
   display: flex;
   margin: 60px auto;
   background-color: red;
-}
+}*/
 
 h3 {
   padding: 20px;
