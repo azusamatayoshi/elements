@@ -4,6 +4,14 @@ body {
   margin: 0 auto;
 }
 
+a:link {
+  color: #000;
+}
+
+a:hover {
+  color: #f00;
+}
+
 img {
   width: 60px;
   height: 60px;
