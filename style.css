@@ -16,11 +16,11 @@ a:hover {
 img {
   width: 40px;
   height: 40px;
-  margin: 30px;
+  margin: 20px auto;
 }
 
 header {
-  margin: 80px auto;
+  margin: 20px auto;
   text-align: center;
   background-color: #ccc;
 }
