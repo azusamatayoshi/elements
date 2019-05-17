@@ -49,31 +49,31 @@ header {
 }
 
 .yellow {
-background: radial-gradient(#fff,#ff0);
+background: radial-gradient(#fff,#FFFF00);
 }
 
 .pink {
-  background: radial-gradient(#fff,#f6c);
+  background: radial-gradient(#fff,#FF00FF);
 }
   
 .green {
-  background: radial-gradient(#fff,#0c0);
+  background: radial-gradient(#fff,#008000);
 }
 
 .lightgreen {
-  background: radial-gradient(#fff,#9f0);
+  background: radial-gradient(#fff,#00FF00);
 }
 
 .blue {
-  background: radial-gradient(#fff,#6cf);
+  background: radial-gradient(#fff,#1E90FF);
 }
 
 .purple {
-  background: radial-gradient(#fff,#c9f);
+  background: radial-gradient(#fff,#9400D3);
 }
 
 .orange {
-background: radial-gradient(#fff,#f90);
+background: radial-gradient(#fff,#FF8C00);
 }
 
 
