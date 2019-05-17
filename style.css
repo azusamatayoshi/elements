@@ -78,6 +78,11 @@ background: radial-gradient(#fff,#FF8C00);
 
 .aqua {
   background: radial-gradient(#fff,#00FFFF);
+}
+
+.navy {
+  background: radial-gradient(#fff,#000080);
+}
 
 .second {
   display: flex;
