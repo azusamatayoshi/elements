@@ -84,6 +84,18 @@ background: radial-gradient(#fff,#FF8C00);
   background: radial-gradient(#fff,#000080);
 }
 
+.bluegreen {
+  background: radial-gradient(#fff,#9ACD32);
+}
+
+.brown {
+  background: radial-gradient(#fff,#8B4513);
+}
+
+.palepink {
+  background: radial-gradient(#fff,#FFC0CB);
+}
+
 .second {
   display: flex;
   margin: 60px auto;
