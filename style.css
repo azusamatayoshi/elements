@@ -109,14 +109,22 @@ background: radial-gradient(#fff,#FF8C00);
 }
 
 .mark .box1 {
-  width: 40px;
-  height: 40px;
+  width: 35px;
+  height: 35px;
   background: radial-gradient(#fff,#FFFF00);
   border: 1px solid #999;
   border-radius: 10px;
   box-shadow: 3px 3px 3px #ccc;
 }
   
+.box2 {
+    width: 35px;
+    height: 35px;
+    background: radial-gradient(#fff,#008000);
+    border: 1px solid #999;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #ccc;
+}
 
     
 h3 {
