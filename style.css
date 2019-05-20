@@ -143,6 +143,10 @@ h3 {
   list-style: none;
 }
 
+summary {
+  border: 1px solid #999;
+}
+
 .wrapper {
   width: 70%;
  /* background-color: #ff9;*/
