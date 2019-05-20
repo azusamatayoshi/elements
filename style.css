@@ -116,6 +116,10 @@ h3 {
   /*background-color: #ffc;*/
 }
 
+.orderdlist li {
+  list-style: none;
+}
+
 .text {
   width: 70%;
  /* background-color: #ff9;*/
