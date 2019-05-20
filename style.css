@@ -107,15 +107,10 @@ background: radial-gradient(#fff,#FF8C00);
   background-color: #999;
 }
 
-.mark {
+.mark div p {
   display: inline-block;
 }
 
-.second {
-  display: flex;
-  margin: 60px auto;
-  background-color: #FFFAFA;
-}
 
 .box1 {
   width: 25px;
@@ -135,6 +130,12 @@ background: radial-gradient(#fff,#FF8C00);
     box-shadow: 3px 3px 3px #ccc;
 }
 
+
+.second {
+  display: flex;
+  margin: 60px auto;
+  background-color: #FFFAFA;
+}
     
 h3 {
   padding: 20px;
@@ -143,18 +144,6 @@ h3 {
   border-top: 5px double #999;
 }
 
-.list {
-  width: 30%;
-  /*background-color: #ffc;*/
-}
-
-.orderedlist li {
-  list-style: none;
-}
-
-summary {
-  border: 1px solid #999;
-}
 
 .text {
   width: 70%;
@@ -167,8 +156,22 @@ summary {
   padding-right: 30px;
 }
 
+.list {
+  width: 30%;
+  /*background-color: #ffc;*/
+}
+
+.orderedlist li {
+  list-style: none;
+}
+
+summary {
+  border-bottom: 1px solid #999;
+}
+
+
 @media screen and (max-width:768px) {
-  .second, .text, .list { 
+ .explanation .second, .text, .list { 
     width: 100%;
     display: block;
   }
