@@ -177,7 +177,7 @@ summary {
     display: block;
   }
  .orderedlist li details summary {
-    display: inline-block;
+    display: none;
   }
 }
 
