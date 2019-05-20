@@ -175,7 +175,7 @@ summary {
     width: 100%;
     display: block;
   }
-  .orderedlist li details {
+  .orderedlist li details summary {
     display: inline-block;
   }
 }
