@@ -104,6 +104,11 @@ background: radial-gradient(#fff,#FF8C00);
   background-color: #FFFAFA;
 }
 
+
+.mark {
+  display: flex;
+}
+
 .mark div p {
   display: inline-block;
 }
