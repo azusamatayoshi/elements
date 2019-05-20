@@ -109,8 +109,8 @@ background: radial-gradient(#fff,#FF8C00);
 }
 
 .mark .box1 {
-  width: 10px;
-  height: 10px;
+  width: 40px;
+  height: 40px;
   background: radial-gradient(#fff,#FFFF00);
   border: 1px solid #999;
   border-radius: 10px;
