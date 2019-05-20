@@ -99,7 +99,7 @@ background: radial-gradient(#fff,#FF8C00);
 }
 
 
-
+/*
 .explanation {
   display: flex;
   width: 70%;
@@ -129,7 +129,7 @@ background: radial-gradient(#fff,#FF8C00);
     border-radius: 5px;
     box-shadow: 3px 3px 3px #ccc;
 }
-
+*/
 
 .second {
   display: flex;
@@ -146,7 +146,7 @@ h3 {
 
 
 .text {
-  width: 70%;
+  width: 80%;
  /* background-color: #ff9;*/
   padding: 20px;
 }
@@ -157,7 +157,7 @@ h3 {
 }
 
 .list {
-  width: 30%;
+  width: 20%;
   /*background-color: #ffc;*/
 }
 
@@ -171,11 +171,11 @@ summary {
 
 
 @media screen and (max-width:768px) {
- .explanation .second, .text, .list { 
+  .second, .text, .list { 
     width: 100%;
     display: block;
   }
-  .list li {
+  .orderedlist li details {
     display: inline-block;
   }
 }
