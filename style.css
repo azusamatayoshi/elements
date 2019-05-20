@@ -108,7 +108,7 @@ background: radial-gradient(#fff,#FF8C00);
   display: inline-block;
 }
 
-.mark box1 {
+.mark .box1 {
   width: 10px;
   height: 10px;
   background: radial-gradient(#fff,#FFFF00);
@@ -135,7 +135,7 @@ h3 {
   list-style: none;
 }
 
-.text {
+.wrapper {
   width: 70%;
  /* background-color: #ff9;*/
   padding: 20px;
@@ -147,7 +147,7 @@ h3 {
 }
 
 @media screen and (max-width:768px) {
-  .second, .text, .list { 
+  .second, .wrapper, .list { 
     width: 100%;
     display: block;
   }
