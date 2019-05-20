@@ -104,16 +104,16 @@ background: radial-gradient(#fff,#FF8C00);
   background-color: #FFFAFA;
 }
 
-.mark {
+.mark p {
   display: inline-block;
 }
 
-.mark .box1 {
+.box1 {
   width: 25px;
   height: 25px;
   background: radial-gradient(#fff,#FFFF00);
   border: 1px solid #999;
-  border-radius: 10px;
+  border-radius: 5px;
   box-shadow: 3px 3px 3px #ccc;
 }
   
@@ -122,7 +122,7 @@ background: radial-gradient(#fff,#FF8C00);
     height: 25px;
     background: radial-gradient(#fff,#008000);
     border: 1px solid #999;
-    border-radius: 10px;
+    border-radius: 5px;
     box-shadow: 3px 3px 3px #ccc;
 }
 
