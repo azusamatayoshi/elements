@@ -45,9 +45,9 @@ header {
   line-height: 60px;
   border: 1px solid #999;
   border-radius: 10px;
-  margin-right: 3px;
-  margin-bottom: 3px;
-  box-shadow: 3px 3px 3px #ccc;
+  margin-right: 5px;
+  margin-bottom: 5px;
+ /* box-shadow: 3px 3px 3px #ccc;*/
 }
 
 .yellow {
