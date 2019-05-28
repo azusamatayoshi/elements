@@ -176,7 +176,7 @@ summary {
     height: 30px;
     line-height: 30px;
     margin-right: 0;
-    margin-bottom: 0;
+    margin-bottom: 3px;
   }
   .second, .text, .list { 
     width: 100%;
