@@ -172,6 +172,12 @@ summary {
 
 
 @media screen and (max-width:768px) {
+  .col {
+    height: 30px;
+    line-height: 30px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
   .second, .text, .list { 
     width: 100%;
     display: block;
